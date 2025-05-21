@@ -3,6 +3,8 @@
 Plugin Name: SCM Events Engine
 Description: Allows clients to create and manage events and publish them to Facebook.
 Version: 0.2.0
+ * GitHub Plugin URI: 3JsandaK/scm-events-engine
+ * GitHub Branch: main
 Author: Screechy Cat Media
 Author URI: https://screechycatmedia.com
 */
